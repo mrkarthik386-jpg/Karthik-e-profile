@@ -104,7 +104,7 @@ Provides contact details such as:
 Steps to Run the Project Locally
 
 1. Download or clone the repository:
-   
+   https://github.com/mrkarthik386-jpg/Karthik-e-profile.git
 2. Open the project folder.
 3. Open the "index.html" file in any web browser.
 
@@ -138,4 +138,4 @@ Live Website Link
 https://mrkarthik386-jpg.github.io/Karthik-e-profile/
 
 GitHub Repository Link
-
+https://github.com/mrkarthik386-jpg/Karthik-e-profile.git
